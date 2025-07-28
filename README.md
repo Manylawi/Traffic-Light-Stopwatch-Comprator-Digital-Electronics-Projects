@@ -17,7 +17,6 @@ These projects offer hands-on experience for engineering students and enthusiast
 - Esraa Hamdy Sayed Abdelsalam  
 - Aya Hamada Farag Ahmed  
 
-**Section**: 1  
 **Supervised by**:  
 - Eng. Shaimaa Ibrahim  
 - Prof. Dr. Roaa Mubarak  
@@ -41,26 +40,26 @@ This project simulates a **digital traffic light system** that counts down from 
 ### 2. ⏱️ Digital Stopwatch
 
 #### 📘 Description:
-A simple stopwatch circuit built using a 555 timer, counters (4026 or 7490), and 7-segment displays to count and show elapsed seconds.
+A simple stopwatch circuit built using a 555 timer, counters (4026), and 7-segment displays to count and show elapsed seconds.
 
 #### ⚙️ Components:
 - 555 Timer  
-- Counter ICs (4026, 7490, or similar)  
+- Counter ICs (4026)  
 - 7-Segment Displays  
 
 ---
 
-### 3. ⚖️ 4-Bit Digital Comparator
+### 3. ⚖️ 3-Bit Digital Comparator
 
 #### 📘 Description:
-A digital logic circuit that compares two 4-bit binary numbers (A and B) and outputs:
+A digital logic circuit that compares two 3-bit binary numbers (A and B) and outputs:
 - A > B  
 - A = B  
 - A < B  
 
 #### ⚙️ Components:
-- XOR, AND, and OR logic gates  
-- LEDs to indicate comparison results  
+- Not and OR logic gates  
+- 7 segments to indicate comparison results  
 
 ---
 
